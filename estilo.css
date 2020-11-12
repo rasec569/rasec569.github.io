@@ -1,0 +1,137 @@
+@import url("https://fonts.googleapis.com/css?family=Varela+Round");
+
+.titulo {
+    color: #005883;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: medium;
+}
+.navbar-brand .align-top.rounded {
+    margin-left: 10px;
+    float: left;
+
+}
+
+#filtrado {
+    filter: invert(5.5) sepia(6) hue-rotate(500deg) saturate(1500%);
+    /*  */
+  /*filter:   saturate(4000%) drop-shadow(16px 26px 20px rgb(244, 121, 32));*/
+}
+nav {
+  background-color: #43C7F4;
+  border-radius: 5px;
+  border-bottom-right-radius: 3px;
+  margin-bottom: 0px;
+  display: block;
+}
+
+
+.box img{  
+  width: 100%;
+  align-items: center;
+  opacity: 80%;
+}
+.box{
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+  }
+.titulo2 {
+    margin: auto;
+    color: #f0b429;
+    position: absolute;
+    top: 20%;
+    left: 0;
+	right: 0;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: medium;
+    border-width: medium;
+}
+.boton{
+    position: absolute;
+    top: 75%;
+    left: 46%;
+}
+body h2 {
+    text-align: center;
+    color: #F0B429;
+    position: relative;
+}
+h4  {
+    color: #F47920;
+}
+section p img {
+    border-radius: 6px;
+	display:block;
+    margin:auto;
+}
+.conceptos {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+	border-radius: 5px;
+	padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+	background-color: rgba(51,51,51,0.15);
+    -webkit-box-shadow: 5px 5px 5px 2px hsla(0,0%,28%,1.00);
+    box-shadow: 5px 5px 5px 2px hsla(0,0%,28%,1.00);
+	/*background-color:#b3b3b3;
+	border-radius: 5px;*/
+}
+.conceptos #Atributos li {
+    margin-left: 3%;
+}
+
+p {
+    text-align: justify;
+    color: #333333;
+}
+.objetivos{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    background-color: rgba(51,51,51,0.15); /* Color white with alpha 0.9*/
+    margin-bottom: 5%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    -webkit-box-shadow: 5px 5px 5px 2px hsla(0,0%,28%,1.00);
+    box-shadow: 5px 5px 5px 2px hsla(0,0%,28%,1.00);
+
+}
+.container .row .col-6 {
+    -webkit-box-shadow: 5px 3px 11px hsla(0,0%,0%,0.30);
+    box-shadow: 5px 3px 11px hsla(0,0%,0%,0.30);
+}
+body h2 {
+    padding-top: 10px;
+    margin-top: 10px;
+
+}
+.container .row .col-4 {
+    top: 0;
+    border-radius: 10px;
+	padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+	background-color: rgba(51,51,51,0.15);
+    -webkit-box-shadow: 5px 5px 5px 2px hsla(0,0%,28%,1.00);
+    box-shadow: 5px 5px 5px 2px hsla(0,0%,28%,1.00);
+}
+.row .col-8 div {
+    margin-top: 51px;
+	padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+	background-color: rgba(51,51,51,0.15);
+    -webkit-box-shadow: 5px 5px 5px 2px hsla(0,0%,28%,1.00);
+    box-shadow: 5px 5px 5px 2px hsla(0,0%,28%,1.00);
+}
